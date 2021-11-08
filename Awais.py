@@ -89,10 +89,8 @@ print  """
 \033[1;97m##     ##  ###  ###  ##     ## ####  ######  
 [ Don't give up ]
 \033[1;97m\x1b[1;96m Author : AWAIS_PAHTON
-\033[1;91m\x1b[1;91m REQUEST : FOLLOW KAI PA FB BANDI
-                    
-\033[1;94m\x1b[1;94mFACEBOOK Mohmand.awais
-                          
+\033[1;91m\x1b[1;91m REQUEST : FOLLOW KAI PA FB BANDI               
+\033[1;94m\x1b[1;94mFACEBOOK Mohmand.awais                       
 \033[1;96m.\x1b[1;92m  STASO NABAZ OGHYM       
 \033[1;92m-\x1b[1;94m WATSAP 03173725015
 """
@@ -100,7 +98,7 @@ print  """
 ####Logo####
 
 logo1 = """
-\033[1;91m\x1b[1;94m Awais
+\033[1;91m\x1b[1;94m AWAIS_PAHTOON
 ────────────────────────────────
 \033[1;91m   ###    ##      ##    ###    ####  ######  
 \033[1;92m  ## ##   ##  ##  ##   ## ##    ##  ##    ## 
