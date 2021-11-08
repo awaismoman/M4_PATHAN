@@ -77,7 +77,6 @@ id = []
 cpb = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
-
 os.system("clear")
 print  """
 [ Don't give up ]
@@ -87,9 +86,7 @@ print  """
 \033[1;96m.\x1b[1;92m  STASO NABAZ OGHYM       
 \033[1;92m-\x1b[1;94m WATSAP 03173725015
 """
-
 ####Logo####
-
 logo1 = """
 \033[1;91m\x1b[1;94m AWAIS_PAHTOON
 ────────────────────────────────
@@ -99,11 +96,8 @@ logo1 = """
 \033[1;94m##     ## ##  ##  ## ##     ##  ##   ######  
 \033[1;95m######### ##  ##  ## #########  ##        ## 
 \033[1;96m##     ## ##  ##  ## ##     ##  ##  ##    ## 
-\033[1;97m##     ##  ###  ###  ##     ## ####  ######  
-                                                                         
-..:::::..::..:::::..::..::::..::..:::::..:::::..:::::..::........::  [ Don't give up ]                                                                               
-                                                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                              
+\033[1;97m##     ##  ###  ###  ##     ## ####  ######                                                                     
+..:::::..::..:::::..::..::::..::..:::::..:::::..:::::..::........::  [ Don't give up ]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 ..::::..::..:::::..::..:::::..::::::::..::::::.......:::::::......::::.......:::..::::..::..:::::..:::::..:::::..:::.......::::......::::..:::::..::
 \033[1;96m-\x1b[1;93mThe Credit For This Code Goes To AWAIS..
 \033[1;97m
@@ -111,17 +105,13 @@ logo1 = """
 logo2 = """
 \033[1;91m\x1b[1;93m AWAIS
 \033[1;97m     ..
-\033[1;97m  
-
-                     
+\033[1;97m                    
 \033[1;94mFACEBOOK-\x1b[1;94mAwais
-\033[1;96m -\x1b[1;92 FB OLD ID clone by ??? AWAIS_PATHAN     
-                                                
+\033[1;96m -\x1b[1;92 FB OLD ID clone by ??? AWAIS_PATHAN                                                   
 \033[1;97m----------------------\x1b[1;96m USE FAST 4G SPEED INTERNT
 """
 CorrectUsername = "AWAIS"
 CorrectPassword = "PATHAN"
-
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;97m\x1b[1;94mTool Username \x1b[1;92m»» \x1b[1;96m")
@@ -137,9 +127,6 @@ while (loop == 'true'):
     else:
         print "\033[1;94mWrong Username"
         os.system('xdg-open https://youtu.be/Q86vnZCLkCI')
-
-
-
 ##### LICENSE #####
 #=================#
 def lisensi():
@@ -155,7 +142,6 @@ def login():
     time.sleep(0.05)
     print '\x1b[1;94m[0]\033[1;91m Exit ( Back)'
     pilih_login()
-
 def pilih_login():
     peak = raw_input("\n\033[1;95mCHOOSE: \033[1;93m")
     if peak =="":
@@ -172,7 +158,6 @@ def Zeek():
    
     time.sleep(0.05)
     action()
-
 def action():
     peak = raw_input('\n\033[1;97mCHOOSE:\033[1;97m')
     if peak =='':
@@ -329,8 +314,6 @@ def action():
 ──────────███║A║W║A║I║S║║███
 \033[1;95mFb\033[1;97m 
 \033[1;95m033[1;97m"""
-
-    
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
     login() 
           
